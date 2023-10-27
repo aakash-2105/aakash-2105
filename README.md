@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aakash Kumar</h1>
 <h3 align="center">A passionate UI/UX and Android developer from India</h3>
 
-- 🌱 I’m currently learning **Firebase and Adobe XD**
+- 🌱 I’m currently researching in **UX**
 
-- 💬 Ask me about **Android, Java**
+- 💬 Ask me about **Android, Java, UI/UX**
 
-- 📫 How to reach me **aakashkumar.ahirwar.4@gmail.com**
+- 📫 Reach me out **aakashkumar.ahirwar.4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
